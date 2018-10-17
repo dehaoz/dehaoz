@@ -1,0 +1,225 @@
+[ 2018-10-13 20:32:00 ] full archive url = https://schmich.github.io/instascan/
+[ 2018-10-13 20:32:00 ] archive url = https://schmich.github.io/instascan/
+[ 2018-10-13 20:32:00 ] website url = schmich.github.io/instascan/
+[ 2018-10-13 20:32:00 ] no www url = schmich.github.io
+[ 2018-10-13 20:32:00 ] domain = github.io
+[ 2018-10-13 20:32:00 ] subdomain = schmich
+[ 2018-10-13 20:32:00 ] type( demo or live ) = live
+[ 2018-10-13 20:32:00 ] max_level = 5
+[ 2018-10-13 20:32:00 ] main folder = schmich.github.io_dehaoz_gmail.com_f5m8ru06m64
+[ 2018-10-13 20:32:00 ] email = dehaoz@gmail.com
+[ 2018-10-13 20:32:00 ] scaping_type = all
+[ 2018-10-13 20:32:00 ] file_path_index = instascan/
+[ 2018-10-13 20:32:00 ] file_path_without_ext_index = instascan/
+[ 2018-10-13 20:32:00 ] #####################################################################################################
+[ 2018-10-13 20:32:00 ] ###############https://schmich.github.io/instascan/ ( Scraping  of 1 / 1 )  - 0 error pages fixed###############
+[ 2018-10-13 20:32:00 ] ###############Local URL = files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/index.html###############
+[ 2018-10-13 20:32:00 ] ###############Try number = 1###############
+[ 2018-10-13 20:32:00 ] #####################################################################################################
+[ 2018-10-13 20:32:00 ]  Main level =0
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] get_curl_live() function : Start
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] TEST 1
+[ 2018-10-13 20:32:00 ] URL = https://schmich.github.io/instascan/
+[ 2018-10-13 20:32:00 ] no proxy used ( Test nbr 1/5 )
+[ 2018-10-13 20:32:00 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+[ 2018-10-13 20:32:00 ] Original encoding = ASCII
+[ 2018-10-13 20:32:00 ] Final encoding = ASCII
+[ 2018-10-13 20:32:00 ] Language = N/A
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract css_from_import files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract pdf files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		End : Extract pdf files		**********/
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract css files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] file url = https://schmich.github.io/instascan/style.css
+[ 2018-10-13 20:32:00 ] local_file_full_path = files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/instascan/style.css
+[ 2018-10-13 20:32:00 ] file url 1 = https://schmich.github.io/instascan/style.css
+[ 2018-10-13 20:32:00 ] scrape_it = 1
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] get_curl_live() function : Start
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] TEST 1
+[ 2018-10-13 20:32:00 ] URL = https://schmich.github.io/instascan/style.css
+[ 2018-10-13 20:32:00 ] no proxy used ( Test nbr 1/5 )
+[ 2018-10-13 20:32:00 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract css_from_import files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract background_images files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		End : Extract background_images files		**********/
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/instascan/style.css --> File Created !!!
+[ 2018-10-13 20:32:00 ] -------------------------------------------------------------------------------------------
+[ 2018-10-13 20:32:00 ] /*******		End : Extract css files		**********/
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract fonts_from_html files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		End : Extract fonts_from_html files		**********/
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract xml files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		End : Extract xml files		**********/
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract txt files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		End : Extract txt files		**********/
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] 
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] /*******		Extract script files		**********/
+[ 2018-10-13 20:32:00 ] /**************************************************************/
+[ 2018-10-13 20:32:00 ] file url = https://cdnjs.cloudflare.com/ajax/libs/webrtc-adapter/3.3.3/adapter.min.js
+[ 2018-10-13 20:32:00 ] local_file_full_path = files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/cdnjs.cloudflare.com/ajax/libs/webrtc-adapter/3.3.3/www_subdomain/adapter.min.js
+[ 2018-10-13 20:32:00 ] file url 1 = https://cdnjs.cloudflare.com/ajax/libs/webrtc-adapter/3.3.3/adapter.min.js
+[ 2018-10-13 20:32:00 ] scrape_it = 1
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] get_curl_live() function : Start
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] TEST 1
+[ 2018-10-13 20:32:00 ] URL = https://cdnjs.cloudflare.com/ajax/libs/webrtc-adapter/3.3.3/adapter.min.js
+[ 2018-10-13 20:32:00 ] no proxy used ( Test nbr 1/5 )
+[ 2018-10-13 20:32:00 ] useragent = Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+[ 2018-10-13 20:32:00 ] files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/cdnjs.cloudflare.com/ajax/libs/webrtc-adapter/3.3.3/www_subdomain/adapter.min.js --> File Created !!!
+[ 2018-10-13 20:32:00 ] -------------------------------------------------------------------------------------------
+[ 2018-10-13 20:32:00 ] file url = https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/vue.min.js
+[ 2018-10-13 20:32:00 ] local_file_full_path = files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/www_subdomain/vue.min.js
+[ 2018-10-13 20:32:00 ] file url 1 = https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/vue.min.js
+[ 2018-10-13 20:32:00 ] scrape_it = 1
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] get_curl_live() function : Start
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] TEST 1
+[ 2018-10-13 20:32:00 ] URL = https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/vue.min.js
+[ 2018-10-13 20:32:00 ] no proxy used ( Test nbr 1/5 )
+[ 2018-10-13 20:32:00 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/11.0.696.57)
+[ 2018-10-13 20:32:00 ] files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/www_subdomain/vue.min.js --> File Created !!!
+[ 2018-10-13 20:32:00 ] -------------------------------------------------------------------------------------------
+[ 2018-10-13 20:32:00 ] file url = https://rawgit.com/schmich/instascan-builds/master/instascan.min.js
+[ 2018-10-13 20:32:00 ] local_file_full_path = files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/rawgit.com/schmich/instascan-builds/master/www_subdomain/instascan.min.js
+[ 2018-10-13 20:32:00 ] file url 1 = https://rawgit.com/schmich/instascan-builds/master/instascan.min.js
+[ 2018-10-13 20:32:00 ] scrape_it = 1
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] get_curl_live() function : Start
+[ 2018-10-13 20:32:00 ] ---------------------------------------
+[ 2018-10-13 20:32:00 ] TEST 1
+[ 2018-10-13 20:32:00 ] URL = https://rawgit.com/schmich/instascan-builds/master/instascan.min.js
+[ 2018-10-13 20:32:00 ] no proxy used ( Test nbr 1/5 )
+[ 2018-10-13 20:32:03 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/23.0
+[ 2018-10-13 20:32:03 ] files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/rawgit.com/schmich/instascan-builds/master/www_subdomain/instascan.min.js --> File Created !!!
+[ 2018-10-13 20:32:03 ] -------------------------------------------------------------------------------------------
+[ 2018-10-13 20:32:03 ] file url = https://schmich.github.io/instascan/app.js
+[ 2018-10-13 20:32:03 ] local_file_full_path = files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/instascan/app.js
+[ 2018-10-13 20:32:03 ] file url 1 = https://schmich.github.io/instascan/app.js
+[ 2018-10-13 20:32:03 ] scrape_it = 1
+[ 2018-10-13 20:32:03 ] ---------------------------------------
+[ 2018-10-13 20:32:03 ] get_curl_live() function : Start
+[ 2018-10-13 20:32:03 ] ---------------------------------------
+[ 2018-10-13 20:32:03 ] TEST 1
+[ 2018-10-13 20:32:03 ] URL = https://schmich.github.io/instascan/app.js
+[ 2018-10-13 20:32:03 ] no proxy used ( Test nbr 1/5 )
+[ 2018-10-13 20:32:03 ] useragent = Mozilla/5.0 (X11; OpenBSD amd64; rv:28.0) Gecko/20100101 Firefox/28.0
+[ 2018-10-13 20:32:03 ] files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/instascan/app.js --> File Created !!!
+[ 2018-10-13 20:32:03 ] -------------------------------------------------------------------------------------------
+[ 2018-10-13 20:32:03 ] /*******		End : Extract script files		**********/
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] /**************************************************************/
+[ 2018-10-13 20:32:03 ] /*******		Extract img files		**********/
+[ 2018-10-13 20:32:03 ] /**************************************************************/
+[ 2018-10-13 20:32:03 ] file url = https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67
+[ 2018-10-13 20:32:03 ] local_file_full_path = files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/img/www_subdomain/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67.jpg
+[ 2018-10-13 20:32:03 ] file url 1 = https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67
+[ 2018-10-13 20:32:03 ] scrape_it = 1
+[ 2018-10-13 20:32:03 ] ---------------------------------------
+[ 2018-10-13 20:32:03 ] get_curl_live() function : Start
+[ 2018-10-13 20:32:03 ] ---------------------------------------
+[ 2018-10-13 20:32:03 ] TEST 1
+[ 2018-10-13 20:32:03 ] URL = https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67
+[ 2018-10-13 20:32:03 ] no proxy used ( Test nbr 1/5 )
+[ 2018-10-13 20:32:03 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
+[ 2018-10-13 20:32:03 ] files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/img/www_subdomain/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67.png --> File Created !!!
+[ 2018-10-13 20:32:03 ] -------------------------------------------------------------------------------------------
+[ 2018-10-13 20:32:03 ] file url = https://schmich.github.io/instascan/favicon.png
+[ 2018-10-13 20:32:03 ] local_file_full_path = files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/instascan/favicon.png
+[ 2018-10-13 20:32:03 ] file url 1 = https://schmich.github.io/instascan/favicon.png
+[ 2018-10-13 20:32:03 ] scrape_it = 1
+[ 2018-10-13 20:32:03 ] ---------------------------------------
+[ 2018-10-13 20:32:03 ] get_curl_live() function : Start
+[ 2018-10-13 20:32:03 ] ---------------------------------------
+[ 2018-10-13 20:32:03 ] TEST 1
+[ 2018-10-13 20:32:03 ] URL = https://schmich.github.io/instascan/favicon.png
+[ 2018-10-13 20:32:03 ] no proxy used ( Test nbr 1/5 )
+[ 2018-10-13 20:32:03 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)
+[ 2018-10-13 20:32:03 ] files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/instascan/favicon.png --> File Created !!!
+[ 2018-10-13 20:32:03 ] -------------------------------------------------------------------------------------------
+[ 2018-10-13 20:32:03 ] /*******		End : Extract img files		**********/
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] /**************************************************************/
+[ 2018-10-13 20:32:03 ] /*******		Extract background_images files		**********/
+[ 2018-10-13 20:32:03 ] /**************************************************************/
+[ 2018-10-13 20:32:03 ] /*******		End : Extract background_images files		**********/
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] /**************************************************************/
+[ 2018-10-13 20:32:03 ] /*******		Extract background_images_in_html files		**********/
+[ 2018-10-13 20:32:03 ] /**************************************************************/
+[ 2018-10-13 20:32:03 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] /**************************************************************/
+[ 2018-10-13 20:32:03 ] /*******		Extract swf files		**********/
+[ 2018-10-13 20:32:03 ] /**************************************************************/
+[ 2018-10-13 20:32:03 ] /*******		End : Extract swf files		**********/
+[ 2018-10-13 20:32:03 ] 
+[ 2018-10-13 20:32:03 ] Removed external links total ( 0 / 1 )
+[ 2018-10-13 20:32:03 ] Partial Size : 1772
+[ 2018-10-13 20:32:03 ] size_limit_KO : 10000
+[ 2018-10-13 20:32:03 ] files/live/schmich.github.io_dehaoz_gmail.com_f5m8ru06m64/index.html --> HTML File Created !!!
+[ 2018-10-13 20:32:03 ] ----------------------------------------------------------------------
+[ 2018-10-13 20:32:03 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2018-10-13 20:32:03 ] Final Size : 1780

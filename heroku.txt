@@ -1,0 +1,53 @@
+heroku login /T
+
+make Procfile (on parent directory) /Editor
+web: vendor/bin/heroku-php-apache2 public/
+
+git init /T
+heroku create /T
+
+git remote -v (cek remote aktif)
+ganti nama repository /w
+heroku apps:rename vna-instascan --app oldname /T
+heroku git:remote -a vna-instascan
+git remote -v (cek remote aktif)
+
+heroku buildpacks:set heroku/php /T
+
+git add . /T
+git commit -m "First Commit" /T dos
+
+git push heroku master (upload to server)
+
+heroku config:add APP_NAME=Instascan /T
+heroku config:add APP_ENV=production /T
+heroku config:add APP_KEY=base64:vkge9Etl0e6WRlvfiIf76U0/qiKPnSzGNQ5a7ZE6CGY= /T
+heroku config:add APP_DEBUG=true /T
+heroku config:add 
+APP_LOG_LEVEL=log /T
+heroku config:add 
+APP_URL=https://vna-instascan.herokuapp.com/ /T
+
+Postgres /W heroku-Resources
+
+heroku config:add DB_HOST=ec2-107-20-211-10.compute-1.amazonaws.com /T
+heroku config:add DB_PORT=5432
+
+
+heroku config:add DB_CONNECTION=db_public /T
+heroku config:add DB_DATABASE=d2ksv5ev4ou0es (vna18db
+)
+heroku config:add DB_USERNAME=vbfahlgcxfoqib
+heroku config:add DB_PASSWORD=ae7bc1d80515644eed685f9594e4a3b8b984c9d88176bdc17a4065eace2ac083
+
+heroku config:add DB_CONNECTION_AUTH=db_auth
+heroku config:add DB_DATABASE_AUTH=dfihb6gtb35iu8 (vna18authdb)
+heroku config:add DB_USERNAME_AUTH=uarkbrgqwjlwbl
+heroku config:add DB_PASSWORD_AUTH=de05814ddfde93b454484cbcade12f4090d370b280cb378cfe1ab53ef4c869c7
+
+
+
+
+*heroku run php artisan migrate --seed
+
+heroku run bash (printah linux)
